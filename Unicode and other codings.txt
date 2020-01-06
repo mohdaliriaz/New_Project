@@ -1,0 +1,12 @@
+Character Encoding
+What is the difference between UTF, ASCII and ANSI code format of encoding
+A character encoding tells the computer how to interpret raw zeroes and ones into real characters. It usually does this by pairing numbers with characters. Words and sentences in text are created from characters and these characters are grouped into a character set. There are many different types of character encodings floating around at present, but the ones we deal most frequently with are ASCII, 8-bit encodings, and Unicode-based encodings.
+
+ASCII
+American Standard Code for Information Interchange (ASCII) is a character-encoding scheme and it was the first character encoding standard. It is a code for representing English characters as numbers, with each letter assigned a number from 0 to 127. Most modern character-encoding schemes are based on ASCII, though they support many additional characters. It is a single byte encoding only using the bottom 7 bits. In an ASCII file, each alphabetic, numeric, or special character is represented with a 7-bit binary number
+
+ANSI
+ANSI (American National Standards Institute) codes are standardized numeric or alphabetic codes issued by the American National Standards Institute to ensure uniform identification of geographic entities through all federal government agencies. It has served as coordinator of the U.S. private sector, voluntary standardization system for more than 90 years. This is essentially an extension of the ASCII character set in that it includes all the ASCII characters with an additional 128 character codes. ASCII just defines a 7 bit code page with 128 symbols. ANSI extends this to 8 bit and there are several different code pages for the symbols 128 to 255.
+
+Unicode
+Unicode is a standard which defines the internal text coding system in almost all operating systems used in computers at present, whether it is Windows, Unix, Macintosh, Linux or whatever, because Unicode can handle characters for almost all modern languages and even some ancient languages at the same time, as long as the client has fonts for the particular language installed in his system.

@@ -1,0 +1,11 @@
+Python_program
+Python practice programs list1=[1,2,3,4,5] list2=[6,7,8,9,10] print(list1) print(list2)
+
+squares=[1,4,9,16,25] cubes=[36,49,64,81,100]
+
+biglist=[] biglist=squares + cubes
+
+for i in biglist: if biglist % 2 = 0: print( " Elements in the list are even numbers ")
+
+   else if biglist % 2 = 1:
+   print (" Elements in the list are odd numbers ")

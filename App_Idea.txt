@@ -1,0 +1,20 @@
+                           UX DESIGN PYRAMID
+Web App Idea: Online Pharmacy
+Users Needs: Online pharmacies are companies that sell pharmaceutical preparations, including prescription-only drugs, on the Internet. Very little is known about this phenomenon because many online pharmacies operate from remote countries, where legal bases and business practices are largely inaccessible to international research. 
+Competitors: There is a great number of pharmaceutical companies, and each one strives to win the shoppers' attention. The pharmacy apps for patients are just another way to achieve the desired goal. Forward-looking chain retail pharmacies have already taken such a step, and if you're not among them so far, it's time to change the situation. 
+
+Gains: A pharmacy which operates over the internet is an internet pharmacy. Internet pharmacy has opened a new world by means of providing medical advices to the people. The main purpose of online pharmacy is to provide medical help to people without having to leave their house and travel to local chemists. If you have a computer with a good internet connection and a credit card, you are only a few clicks away to enjoy the benefits of online pharmacy. These web based pharmacies have online chemist who aid patients to get the proper medicine. Some of the reputed pharmacies on the World Wide Web have both online chemist and doctors to provide live help. Some consumers like to purchase medi¬cine from their own countries to eliminate the shipping and handling costs.
+Pains:  Lack of interaction with physician & pharmacist People don’t rely on purity & quality of drug. Chances of drug abuse. Electronic health record security issue. Access to illiterate & poor population difficult. Selling of narcotics is questionable. Affect business of offline seller.
+Feature Set:  Easy to access Open 24x7. Wide range of products are available. Affordable price Time & money saving. Return policy, Delivery to every part of the world.
+Interaction Design: The search feature of this website will be well constructed and easy to use. Some ecommerce search features aren’t always that good and might not recognise what your potential customer is trying to search for unless the terminology is correct.
+User Interface: Analyzing the needs of pharmacy customers and building possible scenarios for the interaction between a user and mobile application, we have identified the following important features:
+•	A detailed catalog of goods with the possibility to make an order. Such a helpful feature allows a user to study the assortment and prices independently and in comfortable conditions; a customer can fill his virtual "basket" with medicines he needs without losing time in waiting lines.
+•	Personal user accounts. A very important feature that offers users a lot of possibilities including tracking orders and viewing their history. In addition, if the desired product is not available, the customer, again, monitors the supply of fresh medicines through the personal cabinet of the pharmacy drug app.
+•	The base of medicines. This is an excellent opportunity to make your products look good by describing each medicine and providing its picture. And, of course, the user’ll appreciate the possibility to compare different drugs (their effectiveness, price range, etc.).
+•	Online chat. The online feature allows users of mobile apps to contact representatives of your pharmacy directly and ask questions they are interested in.
+•	Feedback about the product or the pharmacy itself. Instead of attempts to find a request book, a client expresses his desires or shares problems with just a few clicks by using a pharmacy drug app. Customers may complain about the level of service in a particular pharmacy or the quality of goods and ask possible questions regarding the operation of the mobile application.
+•	Request for medicine. If a certain drug is not available in your assortment, provide users with the possibility to send a special request.
+•	Connection with social media. This is a really good feature which can be especially helpful to promote the mobile app.
+
+
+

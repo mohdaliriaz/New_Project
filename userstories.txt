@@ -1,0 +1,3 @@
+As a user, the client can use my website to consult me making their webpage for their company.
+As a user, the client can consult me to make verifications or modifications in their Adobe photoshop files.
+As a user, the client can consult me for projects related to C or C++ programming.
